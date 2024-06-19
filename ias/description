@@ -1,0 +1,11 @@
+In the language of your choice please pull all the yellow line trains headed to Huntington
+Station which take passengers. Your code should then be placed onto a container and
+run via the docker run command.
+https://developer.wmata.com/
+https://developer.wmata.com/docs/services/
+https://developer.wmata.com/demokey
+You should have 4 deliverables:
+Dockerfile
+Readme - Telling us how to build and run your container
+code/script file
+a harness script file - to run the container
